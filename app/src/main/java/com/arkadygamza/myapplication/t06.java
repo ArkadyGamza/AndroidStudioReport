@@ -3,13 +3,14 @@ package com.arkadygamza.myapplication;
 import android.util.Log;
 
 /**
- * to select scope
- * alt + up
- * alt + down
+ * delete line
+ * cmd + backspace
+ *
+ * duplicate line
+ * cmd + d
  */
 
-public class t04 {
-
+public class t06 {
     public static final String TAG = "TAG";
 
     public static void main(String[] args) {
@@ -23,11 +24,4 @@ public class t04 {
         }
     }
 
-    public String selectAndDeleteMe(){
-        return "String";
-    }
-
-    public int f1(){
-        return 0;
-    }
 }

@@ -3,12 +3,17 @@ package com.arkadygamza.myapplication;
 import android.util.Log;
 
 /**
- * to select scope
- * alt + up
- * alt + down
+ * to move line/selection
+ * alt + shift + up
+ * alt + shift + down
+ *
+ * to move element
+ *
+ * cmd + shift + up
+ * cmd + shift + down
  */
 
-public class t04 {
+public class t05 {
 
     public static final String TAG = "TAG";
 
@@ -23,11 +28,12 @@ public class t04 {
         }
     }
 
-    public String selectAndDeleteMe(){
+    public String f2(){
         return "String";
     }
 
     public int f1(){
         return 0;
     }
+
 }

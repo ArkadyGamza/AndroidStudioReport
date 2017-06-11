@@ -3,13 +3,11 @@ package com.arkadygamza.myapplication;
 import android.util.Log;
 
 /**
- * to select scope
- * alt + up
- * alt + down
+ * to paste from history
+ * cmd + shift + v
  */
 
-public class t04 {
-
+public class t09 {
     public static final String TAG = "TAG";
 
     public static void main(String[] args) {
@@ -23,7 +21,7 @@ public class t04 {
         }
     }
 
-    public String selectAndDeleteMe(){
+    public String f2(){
         return "String";
     }
 
