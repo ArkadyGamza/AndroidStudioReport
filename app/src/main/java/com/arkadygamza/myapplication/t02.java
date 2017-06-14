@@ -6,6 +6,7 @@ package com.arkadygamza.myapplication;
  * cmd + shift + ]
  *
  * switcher
+ * ctrl + tab
  *
  * distraction free mode
  */

@@ -4,7 +4,9 @@ import android.util.Log;
 
 /**
  * align code
- * cmd + shift + l
+ * alt + cmd + L
+ *
+ * also works with xml
  */
 
 public class t07 {

@@ -8,8 +8,13 @@ import android.util.Log;
  * alt + down
  *
  * introduce function
- * introduce constant
+ * alt + cmd + M
+
  * inline function
+ * alt + cmd + N
+ *
+ * introduce constant
+ * alt + cmd + C
  */
 
 public class t04 {
