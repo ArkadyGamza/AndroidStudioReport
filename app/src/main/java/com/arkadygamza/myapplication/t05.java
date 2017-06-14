@@ -8,9 +8,10 @@ import android.util.Log;
  * alt + shift + down
  *
  * to move element
- *
  * cmd + shift + up
  * cmd + shift + down
+ *
+ * collapse all
  */
 
 public class t05 {

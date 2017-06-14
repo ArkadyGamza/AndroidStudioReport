@@ -1,0 +1,8 @@
+you can analyze stacktracke
+automaticall analyze
+blame
+
+
+stacktrace here
+
+

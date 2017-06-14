@@ -6,6 +6,10 @@ import android.util.Log;
  * to select scope
  * alt + up
  * alt + down
+ *
+ * introduce function
+ * introduce constant
+ * inline function
  */
 
 public class t04 {
@@ -17,17 +21,7 @@ public class t04 {
             if (i == 1) {
                 Log.d(TAG, "one");
             }
-            else {
-                Log.d(TAG, "not one");
-            }
         }
     }
 
-    public String selectAndDeleteMe(){
-        return "String";
-    }
-
-    public int f1(){
-        return 0;
-    }
 }
