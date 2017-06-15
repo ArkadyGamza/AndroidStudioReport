@@ -25,6 +25,6 @@ public class t11 {
     }
 
     public static void main(String[] args) {
-        new t11("1","1","1","1","1","1");
+        new t11("1","2","3","4","5","6");
     }
 }

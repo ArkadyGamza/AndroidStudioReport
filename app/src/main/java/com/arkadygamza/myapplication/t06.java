@@ -7,7 +7,7 @@ import android.util.Log;
  * cmd + backspace
  *
  * duplicate line
- * cmd + d
+ * cmd + D
  */
 
 public class t06 {

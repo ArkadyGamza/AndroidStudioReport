@@ -15,6 +15,9 @@ import android.util.Log;
  *
  * introduce constant
  * alt + cmd + C
+ *
+ * introduce variable
+ * alt + cmd + V
  */
 
 public class t04 {

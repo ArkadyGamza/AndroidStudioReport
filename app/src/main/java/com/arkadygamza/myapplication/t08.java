@@ -2,7 +2,7 @@ package com.arkadygamza.myapplication;
 
 /**
  * Locate file in
- * alt + f1
+ * alt + F1
  */
 
 public class t08 {

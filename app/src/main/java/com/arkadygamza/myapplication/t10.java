@@ -6,7 +6,7 @@ import java.util.Set;
 /**
  * postfix
  * live templates
- * cmd + j
+ * cmd + J
  */
 
 public class t10 {

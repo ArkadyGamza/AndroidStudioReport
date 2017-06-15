@@ -5,6 +5,7 @@ package com.arkadygamza.myapplication;
  *
  * e.g.:
  * presentation mode
+ * distraction free mode (no F13 on 13 inch)
  * unstash
  *
  */
