@@ -4,6 +4,12 @@ package com.arkadygamza.myapplication;
  * block edit
  * cmd + shift + 8
  *
+ * multiple cursors
+ * shift + alt + click
+ *
+ * select next occurrence
+ * ctrl + G
+ *
  * params hints
  */
 
@@ -26,5 +32,15 @@ public class t11 {
 
     public static void main(String[] args) {
         new t11("1","2","3","4","5","6");
+    }
+
+    void f1(){
+        System.out.println("1" + "0");
+        System.out.println("1" + "0");
+        System.out.println("1" + "0");
+        System.out.println("11111" + "0");
+        System.out.println("111" + "0");
+        System.out.println("1111" + "0");
+        System.out.println("11" + "0");
     }
 }

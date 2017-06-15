@@ -8,7 +8,11 @@ package com.arkadygamza.myapplication;
  * switcher
  * ctrl + tab
  *
- * distraction free mode
+ * recent files
+ * cmd + E
+ *
+ * close all windows
+ * cmd + shift + F12
  */
 
 public class t02 {

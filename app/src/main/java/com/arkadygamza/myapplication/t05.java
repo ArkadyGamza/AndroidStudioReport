@@ -11,7 +11,12 @@ import android.util.Log;
  * cmd + shift + up
  * cmd + shift + down
  *
+ * collapse/expand
+ * cmd + +
+ * cmd + -
+ *
  * collapse all
+ * cmd + shift + -
  */
 
 public class t05 {

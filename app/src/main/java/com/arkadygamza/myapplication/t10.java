@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
+ * surround with
  * postfix
  * live templates
  * cmd + J
@@ -17,7 +18,7 @@ public class t10 {
         //.fori
     }
 
-    void f1(boolean condition){
+    void f1(boolean condition) {
         //if
         //Toast
         //logd

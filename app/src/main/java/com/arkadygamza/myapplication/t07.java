@@ -7,7 +7,8 @@ import android.util.Log;
  * alt + cmd + L
  *
  * also works with xml
- * todo: show how to change style
+ *
+ * select and press alt + enter to adjust style
  */
 
 public class t07 {
