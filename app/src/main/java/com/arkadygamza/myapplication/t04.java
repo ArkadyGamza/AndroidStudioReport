@@ -22,12 +22,10 @@ import android.util.Log;
 
 public class t04 {
 
-    public static final String TAG = "TAG";
-
     public static void main(String[] args) {
         for (int i = 0; i < 100; i++) {
             if (i == 1) {
-                Log.d(TAG, "one");
+                Log.d("TAG", "one");
             }
         }
     }
