@@ -12,11 +12,15 @@ import java.util.Set;
 public class t10 {
 
     void f0(List<String> list, Set<Integer> set){
-        //null
+        //.null
         //iter
+        //.fori
     }
 
     void f1(boolean condition){
         //if
+        //Toast
+        //logd
+        //todo where to change quick templates
     }
 }
