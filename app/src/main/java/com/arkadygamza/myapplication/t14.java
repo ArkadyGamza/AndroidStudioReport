@@ -1,7 +1,7 @@
 package com.arkadygamza.myapplication;
 
 /**
- * to jump to source code from diff
+ * to jump to source code from anywhere (e.g. diff)
  * F4
  */
 
