@@ -22,6 +22,5 @@ public class t10 {
         //if
         //Toast
         //logd
-        //todo where to change quick templates
     }
 }
