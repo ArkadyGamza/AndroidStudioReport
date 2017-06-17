@@ -1,5 +1,7 @@
 package com.arkadygamza.myapplication;
 
+import android.support.annotation.Nullable;
+
 /**
  * block edit
  * cmd + shift + 8
@@ -20,6 +22,13 @@ public class t11 {
     public String value4;
     public String value5;
     public String value6;
+
+    @Nullable
+    public Integer i1;
+    @Nullable
+    public Integer i2;
+    @Nullable
+    public Integer i3;
 
     public t11(String value1, String value2, String value3, String value4, String value5, String value6) {
         this.value1 = value1;
